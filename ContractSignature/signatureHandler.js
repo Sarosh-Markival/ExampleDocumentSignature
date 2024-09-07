@@ -1,6 +1,6 @@
 // PDF.js Configuration and Loading
 // PDF.js Configuration and Loading
-const pdfUrl = 'https://github.com/Sarosh-Markival/ExampleDocumentSignature/blob/main/ContractSignature/PDF/example.pdf'; // Path to your PDF file
+const pdfUrl = 'PDF/example.pdf'; // Path to your PDF file
 let pdfDoc = null;
 let currentPage = 1;
 let scale = 1; // Adjust the scale of the PDF rendering
