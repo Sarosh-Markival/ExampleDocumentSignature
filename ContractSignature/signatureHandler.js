@@ -1,5 +1,4 @@
 // PDF.js Configuration and Loading
-// PDF.js Configuration and Loading
 const pdfUrl = 'PDF/example.pdf'; // Path to your PDF file
 let pdfDoc = null;
 let currentPage = 1;
